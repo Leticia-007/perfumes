@@ -75,7 +75,7 @@ if st.button('Efetuar compra'):
     
     # Dados da sua conta Twilio
     account_sid = 'AC204f13ac2684fefc3dccc88e7eb7dd55'
-    auth_token = '030db93b39f2a4bf5b1fe2d787a97931'
+    auth_token = '56a55dbb9fa2cac35485b735c263d3b8'
 
     # Número registrado na sua conta Twilio
     twilio_number = '+16076009556'
